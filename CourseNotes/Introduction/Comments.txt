@@ -1,0 +1,25 @@
+How many ways you can make a comment in python programming
+There is 3 ways
+
+
+
+#---> by using this keyword
+
+' single quote starting at the ending of the line' ---> '  '  --> by using this also we can make a comment
+
+
+
+starting
+
+'''
+
+xyc
+
+'''
+
+ending
+
+----------------------------------------
+
+''' tripe quote by using also we can make a comment'''
+
